@@ -235,7 +235,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #fae1dd;
-    font-family: Arial, sans-serif; /* Changed from script to a clean sans-serif font */
+    font-family: Arial, sans-serif; 
 }
 
 .letter-container {
@@ -245,7 +245,7 @@ body {
 }
 
 .letter {
-    width: 800px; /* Makes the letter horizontally longer */
+    width: 800px; 
     height: auto;
     background-color: #fff3e6;
     padding: 30px;
@@ -279,5 +279,5 @@ body {
 }
 
 audio {
-    display: none; /* Keeps the music playing but hides the player */
+    display: none; 
 }
